@@ -103,13 +103,13 @@ button:hover {
 
 @media (max-width: 679px) {
   body {
-    padding: 2rem 5rem;
+    padding: 2rem 3rem;
   }
 }
 
 @media (max-width: 584px) {
   body {
-    padding: 2rem 1rem;
+    padding: 2rem 0.5rem;
     font-size: 1.2rem;
   }
   input {
@@ -126,11 +126,12 @@ button:hover {
     height: 3rem;
     margin-top: 2.3rem;
   }
-}
 
-
-@media (max-width: 338px) {
-  body {
-    padding: 2rem 2rem;
+  .result-paragraph,
+  .bad {
+    padding: 0.2rem 0.5rem;
+ 
+    font-size: 1.2rem;
   }
 }
+
