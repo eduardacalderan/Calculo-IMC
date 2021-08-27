@@ -103,13 +103,13 @@ button:hover {
 
 @media (max-width: 679px) {
   body {
-    padding: 2rem 7rem;
+    padding: 2rem 5rem;
   }
 }
 
 @media (max-width: 584px) {
   body {
-    padding: 2rem 5rem;
+    padding: 2rem 1rem;
     font-size: 1.2rem;
   }
   input {
@@ -128,11 +128,6 @@ button:hover {
   }
 }
 
-@media (max-width: 532px) {
-  body {
-    padding: 2rem 3rem;
-  }
-}
 
 @media (max-width: 338px) {
   body {
